@@ -4,10 +4,10 @@ theme = "hello-friend-ng"
 title = "About Me"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateform        = "Oct 7, 2006"
+  dateformShort   = "Oct 7"
+  dateformNum     = "2019-10-07"
+  dateformNumTime = "2019-02 15:04 -0700"
   
   author = "Jihoon Og"
   subtitle = "Honors Computing Science Student"
@@ -34,7 +34,7 @@ title = "About Me"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "/home/jihoon"
+      logoText = "/home/jihoonog"
       logoHomeLink = "/"
     # or
     #
@@ -49,8 +49,8 @@ title = "About Me"
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        name = "Resume"
+        url = "/Resume/resume.pdf"
 
 # And you can even create generic menu
 [menu]
