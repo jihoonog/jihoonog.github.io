@@ -2,13 +2,14 @@ baseurl = "https://jihoonog.github.io/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
+
+
 [params]
   dateform        = "Oct 7, 2006"
   dateformShort   = "Oct 7"
   dateformNum     = "2019-10-07"
   dateformNumTime = "2019-02 15:04 -0700"
-
-  description = "Homepage of Jihoon Og"
+  
   [[params.social]]
     name = "github"
     url = "https://github.com/jihoonog"
@@ -27,9 +28,15 @@ theme = "hello-friend-ng"
     subtitle = "Computing Science Student"
     description = "Honors Computing Science Student"
     keywords = "homepage, blog, science, informatics, development, programming"
-    copyright = ""
-    readOtherPosts = "Read other posts sdfasdf"
+    homeSubtitle = "Honors Computing Science Student"
+    
+    # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
 
+  relatedPosts = false  # Add a related content section to all single posts page
+
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
+    
     [languages.en.params.logo]
       logoText = "/home/jihoonog"
       logoHomeLink = "/"
