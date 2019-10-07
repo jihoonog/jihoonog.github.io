@@ -1,16 +1,13 @@
-baseurl = "/"
+baseurl = "https://jihoonog.github.io/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
-title = "About Me"
 
 [params]
   dateform        = "Oct 7, 2006"
   dateformShort   = "Oct 7"
   dateformNum     = "2019-10-07"
   dateformNumTime = "2019-02 15:04 -0700"
-  
-  author = "Jihoon Og"
-  subtitle = "Honors Computing Science Student"
+
   description = "Homepage of Jihoon Og"
   [[params.social]]
     name = "github"
@@ -20,18 +17,18 @@ title = "About Me"
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  # contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
 [languages]
   [languages.en]
     title = "Jihoon Og"
+    subtitle = "Computing Science Student"
     description = "Honors Computing Science Student"
-    subtitle = ""
-    keywords = ""
+    keywords = "homepage, blog, science, informatics, development, programming"
     copyright = ""
-    readOtherPosts = "Read other posts"
+    readOtherPosts = "Read other posts sdfasdf"
 
     [languages.en.params.logo]
       logoText = "/home/jihoonog"
@@ -53,12 +50,15 @@ title = "About Me"
         url = "/Resume/resume.pdf"
 
 # And you can even create generic menu
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about"
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+#[menu]
+  #[[menu.main]]
+  #  identifier = "about"
+  #  name       = "About"
+  #  url        = "/about"
+  #[[menu.main]]
+  #  identifier = "blog"
+  #  name       = "Blog"
+  #  url        = "/posts"
+
+
+# Can the NLP model described in the seminar work well for other languages with different grammer structures and morphology? Basically can this model work well Chinese which is an analytic language as well as Thai as well as French and English?
