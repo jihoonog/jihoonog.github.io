@@ -6,28 +6,9 @@
     <description>Recent content on Jihoon Og</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Sep 2019 12:32:04 -0600</lastBuildDate>
     
 	<atom:link href="https://jihoonog.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://jihoonog.github.io/about/about/</link>
-      <pubDate>Wed, 18 Sep 2019 12:32:04 -0600</pubDate>
-      
-      <guid>https://jihoonog.github.io/about/about/</guid>
-      <description>This is the about page</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://jihoonog.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 18 Sep 2019 12:25:35 -0600</pubDate>
-      
-      <guid>https://jihoonog.github.io/posts/my-first-post/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
