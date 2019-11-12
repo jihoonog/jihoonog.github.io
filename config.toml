@@ -38,7 +38,7 @@ theme = "hello-friend-ng"
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
     
     [languages.en.params.logo]
-      logoText = "/home/jihoonog"
+      logoText = "/home/Jihoon_Og"
       logoHomeLink = "/"
     # or
     #
