@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jihoon Og</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Me</copyright><lastBuildDate>Sat, 10 Apr 2021 16:09:20 -0600</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Dndified Lecture Notes</title>
+      <link>/project/latex_school_notes/</link>
+      <pubDate>Sat, 10 Apr 2021 16:09:20 -0600</pubDate>
+      <guid>/project/latex_school_notes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
